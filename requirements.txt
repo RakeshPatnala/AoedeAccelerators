@@ -1,1 +1,7 @@
 streamlit==1.26.0
+azure.cognitiveservices.speech 
+pyaudio
+wave
+openai
+azure.ai.translation.text 
+azure.core 
